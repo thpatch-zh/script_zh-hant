@@ -30,7 +30,7 @@
 
 ---
 
-## Thcrap Patch Dependency Package for "lang_zh-hant"
+## Thcrap Patch Dependency Integration for "lang_zh-hant"
 
 This repository have the dependency files that ```lang_zh-hant``` needs, it is necessary to configure it when you apply ```lang_zh-hant```.
 
