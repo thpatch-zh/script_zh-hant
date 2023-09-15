@@ -10,7 +10,7 @@
 
 - [English](#thcrap-patch-dependency-package-for-langzh-hant)
 
-## thcrap 繁體中文補丁依賴包
+## thcrap 繁體中文補丁依賴集成
 
 本倉庫含有繁體中文分支(```lang_zh-hant```)所必須之依賴文件，配置繁體中文補丁時需一並配置本依賴。
 
