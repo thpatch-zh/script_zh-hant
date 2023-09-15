@@ -36,7 +36,7 @@ This repository have the dependency files that ```lang_zh-hant``` needs, it is n
 
 ```ex_tsa```: The patch dependency of STG game (Team Shanghai Alice) program,it's mainly contains the fonts and the configure of text size when patching the game require, we'll add the Bug fixing if the game needs.
 
-```ex_tasofro```: The patch dependency of FTG game (Twilight Frontier) program, which contains the fonts and the Bug repair that patching the game needs.It may enconter error if you choose do not configure it.
+```ex_tasofro```: The patch dependency of FTG game (Twilight Frontier) program, which contains the fonts and the Bug repair that patching the game needs.It may enconter error if you choose do not configure it. 
 
 **ATTENTION: This dependency has been added as the defult option of ```lang_zh-hant```, so you don't need to care about it usually.**
 
