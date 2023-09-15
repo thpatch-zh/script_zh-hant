@@ -24,7 +24,7 @@
 
 [@Brliron](https://github.com/brliron)
 
-[東方補丁中心](https://thpatch.net)
+[東方補丁中心](https://www.thpatch.net)
 
 [@小炎醬](https://github.com/Yanstory)
 
@@ -44,6 +44,6 @@ This repository have the dependency files that ```lang_zh-hant``` needs, it is n
 
 [@Brliron](https://github.com/brliron)
 
-[Touhou Patch Center](https://thpatch.net)
+[Touhou Patch Center](https://www.thpatch.net)
 
 [@Yanstime](https://github.com/Yanstory)
