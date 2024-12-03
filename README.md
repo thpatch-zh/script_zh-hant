@@ -1,8 +1,8 @@
-# tpZHCHTex
+# script_zh-hant
 
-![Repo Size](https://img.shields.io/github/repo-size/RetroCyber/tpZHCHTex.svg?label=RepoSize&style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/thpatch-zh/script_zh-hant.svg?label=RepoSize&style=flat-square)
 [![touhou patch center](https://img.shields.io/badge/Require-thcrap-yellow.svg?style=flat-square)](http://thpatch.net)
-[![GitHub issues](https://img.shields.io/github/issues/RetroCyber/tpZHCHTex.svg?label=Issues&style=flat-square)](https://github.com/RetroCyber/tpZHCHTex/issues)
+[![GitHub issues](https://img.shields.io/github/issues/thpatch-zh/script_zh-hant.svg?label=Issues&style=flat-square)](https://github.com/thpatch-zh/script_zh-hant/issues)
 
 ## Language Select / 語言選擇
 
