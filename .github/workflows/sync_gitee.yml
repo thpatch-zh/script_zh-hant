@@ -4,7 +4,7 @@ on: [ push, delete, create ]
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: github.repository_owner == 'RetroCyber'
+    if: github.repository_owner == 'thpatch-zh'
     steps:
       - name: Sync to Gitee
         uses: wearerequired/git-mirror-action@master
@@ -13,6 +13,6 @@ jobs:
           SSH_PRIVATE_KEY: ${{ secrets.GITEE_RSA_PRIVATE_KEY }}
         with:
           # 注意替换为你的 GitHub 源仓库地址
-          source-repo: git@github.com:RetroCyber/tpZHCHTex.git
+          source-repo: git@github.com:thpatch-zh/script_zh-hant.git
           # 注意替换为你的 Gitee 目标仓库地址
-          destination-repo: git@gitee.com:rc17/tpZHCHTex.git
+          destination-repo: git@gitee.com:rc17/tscript_zh-hant.git
