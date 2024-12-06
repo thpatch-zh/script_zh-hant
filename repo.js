@@ -8,7 +8,7 @@
 	"servers": [
 		"https://mirrors.thpatch.net/script_zh-hant/",
 		"https://gitee.com/rc17/script_zh-hant/raw/main/",
-		"https://raw.githubusercontent.com/thpatch-zh/script_zh-hant/main/"
+		"https://raw.githubusercontent.com/thpatch-zh/script_zh-hant/refs/heads/main/"
 	],
 	"title": "Thpatch Chinese Traditional ex-Patches."
 }
